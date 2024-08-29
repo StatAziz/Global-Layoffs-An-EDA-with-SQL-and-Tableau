@@ -1,7 +1,6 @@
+![Layoffs Data Cleaning Project](Image/EDA.gif)
 
-# Global Layoffs: An Exploratory Analysis with SQL and Tableau
-
-![Layoffs Data Cleaning Project](images/layoffs_analysis.png)
+# Global Layoffs: An EDA with SQL and Tableau
 
 I created the `layoffs_staging_new` dataset during my data cleaning project as the foundation for this exploratory analysis. The dataset includes 1,995 records of layoffs from 2020 to 2023, covering 1,628 distinct companies worldwide. It provides a comprehensive overview of job market disruptions during this period, reflecting significant variability across companies, industries, and geographies.
 
