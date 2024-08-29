@@ -2,6 +2,23 @@
 
 # Global Layoffs: An EDA with SQL and Tableau
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Problem Statements](#problem-statements)
+3. [Key Findings](#key-findings)
+   - [Companies with the Highest Number of Layoffs in a Single Event](#companies-with-the-highest-number-of-layoffs-in-a-single-event)
+   - [Yearly Trends in Layoffs from 2020 to 2023](#yearly-trends-in-layoffs-from-2020-to-2023)
+   - [Industries with the Most Layoffs](#industries-with-the-most-layoffs)
+   - [Countries Experiencing the Highest Number of Layoffs](#countries-experiencing-the-highest-number-of-layoffs)
+   - [Top U.S. Cities with the Highest Number of Layoffs](#top-us-cities-with-the-highest-number-of-layoffs)
+   - [Companies with the Highest Total Number of Layoffs](#companies-with-the-highest-total-number-of-layoffs)
+   - [Correlation Between Funds Raised and Layoff Counts](#correlation-between-funds-raised-and-layoff-counts)
+   - [Distribution of Layoffs Across Different Stages of Companies](#distribution-of-layoffs-across-different-stages-of-companies)
+4. [Snapshot of Tableau Dashboard](#snapshot-of-tableau-dashboard)
+5. [Conclusion](#conclusion)
+
+## Overview
 I created the `layoffs_staging_new` dataset during my data cleaning project as the foundation for this exploratory analysis. The dataset includes 1,995 records of layoffs from 2020 to 2023, covering 1,628 distinct companies worldwide. It provides a comprehensive overview of job market disruptions during this period, reflecting significant variability across companies, industries, and geographies.
 
 ## Problem Statements
