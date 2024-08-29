@@ -59,6 +59,8 @@ Post-IPO companies experienced the highest total number of layoffs, though the a
 
 ## Snapshot of Tableau Dashboard
 
+![](Image/Tableau_Dashboard.png)
+
 In my [Tableau dashboard](link_to_dashboard), I provide a detailed visualization of layoff trends and impacts from 2020 to 2023. Key elements include:
 
 - **Key Performance Indicators (KPIs):** Metrics such as Total Layoffs, Average Percentage Laid Off, Total Funds Raised, and Number of Layoff Events.
